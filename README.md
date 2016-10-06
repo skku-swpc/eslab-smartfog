@@ -1,6 +1,6 @@
 # Smart Fog v1.0: IoT Framework for Gateway-centric Thing Abstraction
 
-Smart Fog v1.0 is based on 
+Smart Fog v1.0 is the IoT framework for gateway-centric thing abstraction. It is implemented based on IoTivity v0.9.1.
 
 ## Prerequisites
 - [IoTivity v0.9.1](http://iotivity.org)
@@ -12,3 +12,6 @@ Smart Fog v1.0 is based on
 
 ## Documentations
 - [Smart Fog v1.0 API](docs/Smart-Fog-v1.0-API-reference.docx)
+
+## Publications
+- [Smart Fog: Advanced Fog Server-centric Things Abstraction Framework for Multi-service IoT System (Journal of KIISE, Vol. 43, No.6, pp.710-717, 2016.6)](http://kiise.or.kr/e_journal/2016/6/JOK/pdf/13.pdf)
